@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Nabin Nath <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
-<!--
-**nabin-nath/nabin-nath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a Electronic Enthusiast  👨‍💻, Currently in second year at National Institute of Technology, Hamirpur. 👨‍🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nabin-nath" alt="nabin-nath" /> </p>
+
+- 🔭 I’m currently working on my Web Development Skills.  
+- 🌱 I’m passionate about Data Structures and Flutter. 
+- 👯 I’m looking to collaborate on Flutter, Android and Web development Projects.
+- 🤔 I’m looking for help in learning about Nodejs. 
+- 💬 Ask me about anything and everything 
+- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumitbudhiraja46@gmail.com)](mailto:nabinnath9@gmail.com)
+- ⚡ Fun fact:  There are more possible iterations of game of Chess then there are atoms in the known universe.
+
+
+### Some Stats About Sumit (Public Only)
+<p align="center" >
+<img alt="Sumit's github stats" src="https://github-readme-stats.vercel.app/api?username=nabin-nath&show_icons=true&theme=merko"  > </p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/nabin-nath-902597192/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="Nabin-Nath" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/nabin_nath09" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Nabin-Nath" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/_hitch_hiker____/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Nabin-Nath" height="25" width="25" /></a>&nbsp;&nbsp;
+</p>
