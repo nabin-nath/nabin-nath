@@ -16,7 +16,7 @@ I'm a Electronics Enthusiast  👨‍💻, Currently in second year at National 
 
 ### Some Stats About Nabin (Public Only)
 <p align="center" >
-<img alt="Nabin's github stats" src="https://github-readme-stats.vercel.app/api?username=nabin-nath&show_icons=true&theme=merko"  > </p>
+<img alt="Nabin's github stats" src="https://github-readme-stats.vercel.app/api?username=nabin-nath&show_icons=true&theme=vue-dark"  > </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/nabin-nath-902597192/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="Nabin-Nath" height="25" width="25" /></a>&nbsp;&nbsp;
