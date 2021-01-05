@@ -1,5 +1,4 @@
 <a href=""><img src="profile_background.png" width="100%"></a>
-<h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Nabin Nath <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
 
 I'm a Electronics Enthusiast  👨‍💻, Currently in second year at National Institute of Technology, Hamirpur. 👨‍🎓
