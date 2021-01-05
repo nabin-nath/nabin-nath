@@ -1,4 +1,4 @@
-<a href=""><img src="profile_background.png" width="100%"></a>
+<img src="profile_background.png" width="100%">
 #
 
 I'm a Electronics Enthusiast  👨‍💻, Currently in second year at National Institute of Technology, Hamirpur. 👨‍🎓
