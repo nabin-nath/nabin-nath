@@ -4,7 +4,6 @@
 
 I'm a Electronics Enthusiast  👨‍💻, Currently in second year at National Institute of Technology, Hamirpur. 👨‍🎓
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nabin-nath" alt="nabin-nath" /> </p>
 
 - 🔭 I’m currently working on my Web Development Skills.  
 - 🌱 I’m passionate about Data Structures and Flutter. 
