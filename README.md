@@ -6,7 +6,7 @@ I'm a Electronics Enthusiast  👨‍💻, Currently in second year at National 
 
 
 - 🔭 I’m currently working on my Web Development Skills.  
-- 🌱 I’m passionate about Data Structures and Flutter. 
+- 🌱 I’m like to use VSCode. 
 - ⚡ Fun fact:  There are more possible iterations of game of Chess then there are atoms in the known universe.
 
 
