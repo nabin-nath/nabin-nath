@@ -20,7 +20,7 @@
   <a href="https://github.com/nabin-nath">
     <img src="https://img.shields.io/badge/github-nabin--nath-211F1F?logo=github&logoColor=white&style=flat-square" />
   </a>
-<!--   <a href="https://nabinnath.me">
+<!--   <a href="https://nabin-nath.me">
     <img src="https://img.shields.io/badge/website-nabinnath.me-1BC?logo=react&logoColor=white&style=flat-square" />
   </a> -->
   <a href="https://www.linkedin.com/in/nabinnath9">
