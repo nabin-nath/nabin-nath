@@ -55,7 +55,6 @@
 - [GitHub Actions on Google Cloud Platform via Cirun.io](https://medium.com/@nabinnath9/github-actions-on-google-cloud-platform-via-cirun-io-28a36c3b1c22?source=rss-51e400dd2d27------2)
 <!-- BLOG-POST-LIST:END -->
 
----
 
 [linkedin]: https://linkedin.com/in/sanjib-devnath-76a55642
 [vscode]: https://code.visualstudio.com/
@@ -98,6 +97,3 @@
 [facebook]: https://www.facebook.com/people/Nabin-Nath/100006391395983/
 [linkedin]: https://www.linkedin.com/in/nabinnath9/
 
-
-
------
