@@ -54,7 +54,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-[linkedin]: https://linkedin.com/in/sanjib-devnath-76a55642
 [vscode]: https://code.visualstudio.com/
 [javascript]: https://www.w3schools.com/js/DEFAULT.asp
 [nodejs]: https://nodejs.org/en/
