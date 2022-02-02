@@ -52,6 +52,7 @@
 ### 📕 Latest blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Actions on Google Cloud Platform via Cirun.io](https://medium.com/@nabinnath9/github-actions-on-google-cloud-platform-via-cirun-io-28a36c3b1c22?source=rss-51e400dd2d27------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
