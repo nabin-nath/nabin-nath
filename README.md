@@ -27,12 +27,14 @@
 
 ### Technology, Languages and Tools:
 
-[<img align="left" title="git" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" title="git" alt="Git" width="26px" src="https://user-images.githubusercontent.com/55244069/152323251-ebc5bccf-6ea5-4725-ab92-2eb9b968938a.png" />][git]
 [<img align="left" title="docker" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
 [<img align="left" title="vscode" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" title="ubuntu" alt="Ubuntu" width="26px" src="https://user-images.githubusercontent.com/55244069/152322009-974ab6c1-7e2b-46cd-8228-dc69799b9828.png" />][c++]
 [<img align="left" title="python" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" title="javascript" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" title="nodejs" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
+[<img align="left" title="ubuntu" alt="Ubuntu" width="26px" src="https://user-images.githubusercontent.com/55244069/152323669-c3b4ba4c-301b-4b64-a38d-6948e686abc6.png" />][react]
 [<img align="left" title="expressJS" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][express]
 [<img align="left" title="flask" alt="Flask" width="19px" src="https://www.pngkey.com/png/detail/98-985032_flask-logo-flask-python-icon.png" />][flask]
 [<img align="left" title="mysql" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
@@ -43,6 +45,8 @@
 
 
 <br />
+
+
 <br />
 
 ---
@@ -93,4 +97,6 @@
 [twitter]: https://twitter.com/nabin_nath9
 [facebook]: https://www.facebook.com/people/Nabin-Nath/100006391395983/
 [linkedin]: https://www.linkedin.com/in/nabinnath9/
+[c++]: https://www.cplusplus.com/reference/
+[react]: https://reactjs.org/
 
