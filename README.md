@@ -11,7 +11,7 @@
 
 <p>
   <a href="https://github.com/nabin-nath">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nabin-nath&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nabin-nath&show_icons=true&theme=dark&count_private=true&include_all_commits=false" />
   </a>
 </p>
 
