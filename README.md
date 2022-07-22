@@ -5,7 +5,7 @@
     <b>Hello there, I'm <a href="https://github.com/nabin-nath">@nabin</a> 👋</b>
   </h1>
   <p>
-    <samp>( "👨‍💻 Web Developer" | "⚽ Footballer" )</samp>
+    <samp>( "👨‍💻 Software Developer" | "⚽ Footballer" )</samp>
   </p>
 </p>
 
