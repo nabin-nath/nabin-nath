@@ -28,8 +28,8 @@
 ### Technology, Languages and Tools:
 
 [<img align="left" title="git" alt="Git" width="26px" src="https://user-images.githubusercontent.com/55244069/152323251-ebc5bccf-6ea5-4725-ab92-2eb9b968938a.png" />][git]
-[<img align="left" title="ubuntu" alt="Ubuntu" width="26px" src="https://user-images.githubusercontent.com/55244069/152322009-974ab6c1-7e2b-46cd-8228-dc69799b9828.png" />][c++]
-[<img align="left" title="ubuntu" alt="Ubuntu" width="26px" src="https://user-images.githubusercontent.com/55244069/152323669-c3b4ba4c-301b-4b64-a38d-6948e686abc6.png" />][react]
+[<img align="left" title="c++" alt="Ubuntu" width="26px" src="https://user-images.githubusercontent.com/55244069/152322009-974ab6c1-7e2b-46cd-8228-dc69799b9828.png" />][c++]
+[<img align="left" title="react" alt="Ubuntu" width="26px" src="https://user-images.githubusercontent.com/55244069/152323669-c3b4ba4c-301b-4b64-a38d-6948e686abc6.png" />][react]
 [<img align="left" title="mongodb" alt="MongoDB" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png" />][mongodb]
 [<img align="left" title="aws" alt="AWS" width="26px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" />][aws]
 
