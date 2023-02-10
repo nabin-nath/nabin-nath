@@ -40,7 +40,7 @@
 <br />
 
 ---
-📊 **This Week I Spent My Time On:**
+🚀 **I am a pseudo Electronics Engineer**
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%2014%20mins-blue)
 
