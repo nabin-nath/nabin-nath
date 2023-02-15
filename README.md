@@ -118,6 +118,11 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 <!-- BLOG-POST-LIST:START -->
 - [GitHub Actions on Google Cloud Platform via Cirun.io](https://medium.com/@nabinnath9/github-actions-on-google-cloud-platform-via-cirun-io-28a36c3b1c22?source=rss-51e400dd2d27------2)
+- [Enable Google Page Views](/posts/enable-google-pv/)
+- [Customize the Favicon](/posts/customize-the-favicon/)
+- [Just Testing](/posts/getting-started/)
+- [Writing a New Post](/posts/write-a-new-post/)
+- [Text and Typography](/posts/text-and-typography/)
 <!-- BLOG-POST-LIST:END -->
 
 
