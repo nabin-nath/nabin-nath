@@ -4,42 +4,8 @@
   <h1>
     <b>Hello there, I'm <a href="https://github.com/nabin-nath">@nabin</a> 👋</b>
   </h1>
-  <p>
-    <samp>( "👨‍💻 Software Engineer" )</samp>
-  </p>
 </p>
 
-<p>
-  <a href="https://github.com/nabin-nath">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nabin-nath&show_icons=true&theme=dark&count_private=true&include_all_commits=false" />
-  </a>
-</p>
-
-### Connect with me:
-
-[<img align="left" alt="nabinnath | Website" width="22px" src="https://user-images.githubusercontent.com/55244069/206904166-939ff829-391e-4fb2-8d98-95ac7aaf22c0.png" />][website]
-[<img align="left" alt="nabinnath | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nabinnath | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="nabinnath | Code Chef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
-[<img align="left" alt="nabinnath | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br />
-
-### Technology, Languages and Tools:
-
-[<img align="left" title="git" alt="Git" width="26px" src="https://user-images.githubusercontent.com/55244069/152323251-ebc5bccf-6ea5-4725-ab92-2eb9b968938a.png" />][git]
-[<img align="left" title="c++" alt="Ubuntu" width="26px" src="https://user-images.githubusercontent.com/55244069/152322009-974ab6c1-7e2b-46cd-8228-dc69799b9828.png" />][c++]
-[<img align="left" title="react" alt="Ubuntu" width="26px" src="https://user-images.githubusercontent.com/55244069/152323669-c3b4ba4c-301b-4b64-a38d-6948e686abc6.png" />][react]
-[<img align="left" title="mongodb" alt="MongoDB" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png" />][mongodb]
-[<img align="left" title="aws" alt="AWS" width="26px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" />][aws]
-
-
-<br />
-
-
-<br />
-
----
 🚀 **I am a pseudo Electronics Engineer**
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs%2012%20mins-blue)
@@ -121,6 +87,16 @@ Dart                     1 repo              ░░░░░░░░░░░�
 - [Internship at Aktech Labs](https://nabin-nath.github.io/posts/aktech-labs-intern/)
 - [GitHub Actions on Google Cloud Platform via Cirun.io](https://medium.com/@nabinnath9/github-actions-on-google-cloud-platform-via-cirun-io-28a36c3b1c22?source=rss-51e400dd2d27------2)
 <!-- BLOG-POST-LIST:END -->
+
+### Connect with me:
+
+[<img align="left" alt="nabinnath | Website" width="22px" src="https://user-images.githubusercontent.com/55244069/206904166-939ff829-391e-4fb2-8d98-95ac7aaf22c0.png" />][website]
+[<img align="left" alt="nabinnath | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nabinnath | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="nabinnath | Code Chef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
+[<img align="left" alt="nabinnath | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+<br />
 
 
 [vscode]: https://code.visualstudio.com/
