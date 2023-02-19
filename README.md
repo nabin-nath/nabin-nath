@@ -117,8 +117,8 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ### 📕 Latest blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [Year Review 2022](/posts/year-review-2022/)
-- [Internship at Aktech Labs](/posts/aktech-labs-intern/)
+- [Year Review 2022](https://nabin-nath.github.io/posts/year-review-2022/)
+- [Internship at Aktech Labs](https://nabin-nath.github.io/posts/aktech-labs-intern/)
 - [GitHub Actions on Google Cloud Platform via Cirun.io](https://medium.com/@nabinnath9/github-actions-on-google-cloud-platform-via-cirun-io-28a36c3b1c22?source=rss-51e400dd2d27------2)
 <!-- BLOG-POST-LIST:END -->
 
