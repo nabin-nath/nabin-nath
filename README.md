@@ -8,7 +8,7 @@
 
 🚀 **I am a pseudo Electronics Engineer**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2058%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
@@ -72,7 +72,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/03/2023 06:08:36 UTC
+ Last Updated on 09/03/2023 18:39:29 UTC
 <!--END_SECTION:waka-->
 
 ### 📕 Latest blogs
