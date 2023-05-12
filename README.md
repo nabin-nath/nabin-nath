@@ -8,7 +8,7 @@
 
 🚀 **I am a pseudo Electronics Engineer**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-476%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-476%20hrs%2034%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
@@ -39,17 +39,17 @@ Sunday                   124 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     6 mins              ███████████████░░░░░░░░░░   59.92 % 
-TypeScript               4 mins              ██████████░░░░░░░░░░░░░░░   40.08 % 
+TypeScript               9 mins              ███████████████░░░░░░░░░░   60.45 % 
+JSON                     6 mins              ██████████░░░░░░░░░░░░░░░   39.55 % 
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+VS Code                  15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-coding-challenege-ReactJS10 mins             █████████████████████████   100.00 % 
+coding-challenege-ReactJS15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    10 mins             █████████████████████████   100.00 % 
+Linux                    15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -65,7 +65,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2023 18:34:58 UTC
+ Last Updated on 12/05/2023 18:34:53 UTC
 <!--END_SECTION:waka-->
 
 ### 📕 Latest blogs
