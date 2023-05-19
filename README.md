@@ -39,16 +39,16 @@ Sunday                   124 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-coding-challenege-ReactJS5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -64,7 +64,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2023 18:34:47 UTC
+ Last Updated on 19/05/2023 18:34:44 UTC
 <!--END_SECTION:waka-->
 
 ### 📕 Latest blogs
