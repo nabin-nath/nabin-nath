@@ -8,7 +8,7 @@
 
 🚀 **I am a pseudo Electronics Engineer**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-476%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-476%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
@@ -39,16 +39,17 @@ Sunday                   124 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 12 mins             ██████████████████████░░░   88.91 % 
+YAML                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+nabin-nath.github.io     13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -64,7 +65,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2023 18:35:11 UTC
+ Last Updated on 31/05/2023 18:35:09 UTC
 <!--END_SECTION:waka-->
 
 ### 📕 Latest blogs
