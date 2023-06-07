@@ -39,17 +39,16 @@ Sunday                   124 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 12 mins             ██████████████████████░░░   88.91 % 
-YAML                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-nabin-nath.github.io     13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -65,7 +64,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2023 18:34:57 UTC
+ Last Updated on 07/06/2023 18:36:08 UTC
 <!--END_SECTION:waka-->
 
 ### 📕 Latest blogs
