@@ -7,73 +7,22 @@
 </p>
 
 🚀 **I am a pseudo Electronics Engineer**
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%2011%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
+Joined Github **3** years ago.
 
-**I'm an Early 🐤** 
+Since then I pushed **925** commits, opened **42** issues, submitted **87** pull requests, received **9** stars across **37** personal projects.
+Most used languages across my projects:
 
-```text
-🌞 Morning                127 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-🌆 Daytime                323 commits         ██████████░░░░░░░░░░░░░░░   39.25 % 
-🌃 Evening                311 commits         █████████░░░░░░░░░░░░░░░░   37.79 % 
-🌙 Night                  62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-```
-📅 **I'm Most Productive on Monday** 
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B191.5%25)
+![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B14.3%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B11.1%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B10.9%25)
+![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B10.8%25)
+![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B10.4%25)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B10.3%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.2%25)
 
-```text
-Monday                   150 commits         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-Tuesday                  131 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Wednesday                90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Thursday                 111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Friday                   142 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Saturday                 75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Sunday                   124 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               27 hrs 9 mins       ███████████████████░░░░░░   76.77 % 
-Python                   4 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-JSON                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-Bash                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Markdown                 25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-
-🔥 Editors: 
-VS Code                  35 hrs 22 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-carl-ai                  15 hrs 58 mins      ███████████░░░░░░░░░░░░░░   45.16 % 
-dashboard-backend        11 hrs 42 mins      ████████░░░░░░░░░░░░░░░░░   33.11 % 
-backend-carl             4 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-accept-a-payment         2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-home-history             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-💻 Operating System: 
-Linux                    35 hrs 22 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               14 repos            ████████░░░░░░░░░░░░░░░░░   32.56 % 
-Python                   11 repos            ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-Assembly                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-```
-
-
-
-
- Last Updated on 23/06/2023 18:38:40 UTC
-<!--END_SECTION:waka-->
+<p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
 
 ### 📕 Latest blogs
 
@@ -93,46 +42,8 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 <br />
 
-
-[vscode]: https://code.visualstudio.com/
-[javascript]: https://www.w3schools.com/js/DEFAULT.asp
-[nodejs]: https://nodejs.org/en/
-[mongodb]: https://www.mongodb.com/
-[gremlin]: https://tinkerpop.apache.org/
-[java]: https://www.java.com/en/
-[php]: https://www.php.net/
-[golang]: https://go.dev/
-[typescript]: https://www.typescriptlang.org/
-[mysql]: https://www.mysql.com/
-[neo4j]: https://neo4j.com/
-[arangodb]: https://www.arangodb.com/
-[ubuntu]: https://ubuntu.com/
-[phpstrom]: https://www.jetbrains.com/phpstorm/
-[intellij]: https://www.jetbrains.com/idea/
-[pycharm]: https://www.jetbrains.com/pycharm/
-[goland]: https://www.jetbrains.com/go/
-[kubernetes]: https://kubernetes.io/
-[terraform]: https://www.hashicorp.com/products/terraform
-[laravel]: https://laravel.com/
-[express]: https://expressjs.com/
-[flask]: https://flask.palletsprojects.com/en/2.0.x/
-[python]: https://www.python.org/
-[spring]: https://spring.io/projects/spring-boot
-[redis]: https://redis.io/
-[docker]: https://www.docker.com/
-[aws]: https://aws.amazon.com/
-[socketIO]: https://socket.io/
-[kafka]: https://kafka.apache.org/
-[plsql]: https://www.postgresql.org/
-[git]: https://git-scm.com/
-[elasticsearch]: https://git-scm.com/
-[kibana]: https://git-scm.com/
 [website]: http://nabin-nath.github.io/
 [medium]: https://medium.com/@nabinnath9/
 [codechef]: http://codechef.com/users/nabinnath9/
 [twitter]: https://twitter.com/nabin_nath9
-[facebook]: https://www.facebook.com/people/Nabin-Nath/100006391395983/
 [linkedin]: https://www.linkedin.com/in/nabinnath9/
-[c++]: https://www.cplusplus.com/reference/
-[react]: https://reactjs.org/
-
