@@ -10,7 +10,7 @@
 
 Joined Github **4** years ago.
 
-Since then I pushed **951** commits, opened **42** issues, submitted **66** pull requests, received **9** stars across **38** personal projects.
+Since then I pushed **951** commits, opened **42** issues, submitted **66** pull requests, received **10** stars across **38** personal projects.
 Most used languages across my projects:
 
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B191.3%25)
