@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull in dev.to posts
+        uses: actions/checkout@v4
+      - name: Pull in blogs
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: 10
