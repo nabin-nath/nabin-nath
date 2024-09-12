@@ -8,7 +8,7 @@
 
 🚀 **I am a pseudo Electronics Engineer**
 
-Joined Github **4** years ago.
+Joined Github **5** years ago.
 
 Since then I pushed **952** commits, opened **40** issues, submitted **66** pull requests, received **10** stars across **38** personal projects.
 Most used languages across my projects:
